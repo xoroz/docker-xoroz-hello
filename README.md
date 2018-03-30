@@ -26,8 +26,4 @@ open browser to
 
 http://localhost:8888
 you should see:
-
 Hello Me linux
-
-
-https://www.youtube.com/watch?v=wCTTHhehJbU
