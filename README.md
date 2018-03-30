@@ -11,8 +11,7 @@ Download all zips here
 https://github.com/xoroz/docker-xoroz-hello/archive/master.zip
 
 
-docker build -t mynodejs 
-#note about 688 MB
+docker build -t mynodejs .
 
 docker run -ti -p 8888:8888 mynodejs
 
